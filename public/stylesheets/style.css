@@ -1,0 +1,25 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.chatBoxWidth {
+    border-left-width: 1px;
+    padding-left: 0px;
+    border-right-width: 1px;
+    padding-right: 0px;
+    !important;
+}
+
+.height443{
+    height: 443px;
+}
+
+.anchorBadge:hover{
+    cursor: pointer;
+    text-decoration: none;
+}

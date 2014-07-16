@@ -1,0 +1,13 @@
+{
+  "name": "rss-feed-viewer",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2",
+    "angular": "~1.2.9",
+    "font-awesome": "~4.0.3",
+    "angular-route": "~1.2.9",
+    "underscore": "~1.5.2",
+    "jquery": "~1.11.0",
+    "angular-ui-router": "0.2.8-bowratic-tedium"
+  }
+}
